@@ -1,1 +1,1 @@
-# earthquakeExample
+# Visualizing data using MapBox
